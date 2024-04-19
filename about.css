@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20211217/pngtree-contact-us-for-banner-material-image_922362.jpg");
+    background-size:cover ;
+}
+h1{
+    font-size: 80px;
+    margin-left:60rem;
+    margin-top: 10rem;
+    text-decoration: underline;
+}
+ul li{
+    font-size: 50px;
+    margin-left: 60rem;
+   
+}

@@ -1,0 +1,32 @@
+body{
+    /* background-image: url('https://mkcncservices.com/photos/about-page-background.jpg'); */
+    background-image: url('https://thumbs.dreamstime.com/b/books-wooden-desk-table-abstract-background-education-copy-space-back-to-school-184388475.jpg');
+    background-size: cover;
+}
+.box{
+    height:700px;
+    width:40%;
+    margin:auto;
+    margin-top: 50px;
+    box-shadow: 0px 9px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 4%;
+    
+}
+h1{
+    margin-left:20rem;
+    font-size: 80px;
+    text-decoration: underline;
+}
+ul li{
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+ul li  span{
+    margin-left:20px;
+}
+ul li a{
+    margin-left:20px;
+}

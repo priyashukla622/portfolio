@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://tb095.k12.sd.us/Student-Centered_Learning/21st_Century_Skills_files/01_2008_Blank_01.png");
+    background-size: cover;
+}
+h1{
+    margin-left:70rem ;
+    font-size: 80px;
+    margin-top: -8px;
+    text-decoration: underline;
+}
+h3{
+    margin-left: 30rem;
+    font-size:50px ;
+}
+ul li{
+    margin-left: 30rem;
+    font-size: 40px;
+}
+.boxs{
+    margin-left: 70rem;
+    margin-top: -23rem;
+}
+.logo img{
+    margin-left:20rem;
+    margin-top: 2rem;
+}
+.logo1 img{
+    margin-left: 4rem;
+}
